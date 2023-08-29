@@ -75,7 +75,7 @@ nest-asyncio==1.5.1
 nltk==3.5
 notebook==6.3.0
 numpy==1.20.2
-opencv-python==4.3.0.36
+opencv-python==4.3.0.38
 overrides==3.1.0
 packaging==20.9
 pandas==1.0.5
